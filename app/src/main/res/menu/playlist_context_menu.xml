@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/playVideo"
+        android:title="@string/play_video"
+        android:visible="true"/>
+    <item
+        android:id="@+id/artistWiki"
+        android:title="@string/artist_wiki"
+        android:visible="true"/>
+    <item
+        android:id="@+id/songWiki"
+        android:title="@string/song_wiki"
+        android:visible="true"/>
+</menu>

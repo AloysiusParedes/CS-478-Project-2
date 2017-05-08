@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/action_create_playlist"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="@string/action_create_playlist"
+        tools:ignore="AppCompatResource"
+        android:showAsAction="always"
+        android:visible="true"
+        app:showAsAction="always"
+        android:checked="false" />
+    <item
+        android:id="@+id/action_clear_all_selection"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:title="@string/action_clear_all_selections"
+        tools:ignore="AppCompatResource"
+        android:showAsAction="ifRoom"
+        android:visible="true" />
+    <item
+        android:id="@+id/action_invert_selections"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:title="@string/action_invert_selections"
+        tools:ignore="AppCompatResource"
+        android:showAsAction="ifRoom"
+        android:visible="true" />
+    <item
+        android:id="@+id/action_check_all_items"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:title="@string/action_check_all_items"
+        tools:ignore="AppCompatResource"
+        android:showAsAction="ifRoom"
+        android:visible="true" />
+    <item
+        android:id="@+id/action_about"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:title="@string/action_about"
+        tools:ignore="AppCompatResource"
+        android:showAsAction="ifRoom"
+        android:visible="false" />
+
+</menu>

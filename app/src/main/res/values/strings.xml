@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CS 478 Proj2</string>
+    <string name="action_about">About</string>
+    <string name="action_check_all_items">Check All Items</string>
+    <string name="action_invert_selections">Invert Selections</string>
+    <string name="action_clear_all_selections">Clear All Selections</string>
+    <string name="action_create_playlist">Create Playlist</string>
+    <string name="song_name">Song Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="album_name">Album Name</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="play_video">Play Video</string>
+    <string name="artist_wiki">Artist Wiki</string>
+    <string name="song_wiki">Song Wiki</string>
+</resources>

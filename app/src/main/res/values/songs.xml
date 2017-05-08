@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="songs">
+        <item>Congratulations</item>
+        <item>One Night</item>
+        <item>Broccoli</item>
+        <item>Sunday Candy</item>
+        <item>No Problem</item>
+        <item>Thinkin Bout You</item>
+        <item>Nikes</item>
+
+    </string-array>
+</resources>
